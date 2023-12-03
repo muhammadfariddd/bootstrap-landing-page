@@ -1,12 +1,23 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    scroll-behavior: smooth;
+}
+
 .jumbotron {
     padding-top: 6rem;
-    background-color: #444;
+    background-color: #31304D;
 }
 
 #project{
-    background-color: #444;
+    background-color: #31304D;
 }
+
+#project button a {
+list-style-type: none;
+}
+
 
 section{
     padding-top: 5rem;
 }
+
